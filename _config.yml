@@ -1,0 +1,28 @@
+name: Bomart
+favicon: null
+layout_spectrum: 0.4779145661741495
+typography_spectrum: 0.8646696349605918
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9656823608092964
+  lightness: 0.8874076658394188
+  saturation: 0.8280349941924214
+  rhythmicContrast: 0.9026180843356997
+purpose: []
