@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Bomart]]></title>
+        <description><![CDATA[Bomart]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 17 May 2016 20:31:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Added text]]></title>
+            <description><![CDATA[<article><h1>Added text</h1><p>http://www.rikov.nl/bhs/rikov/index.php?option=com_content&view=article&id=62&Itemid=65</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9682b3ef-1f30-4b56-bd83-2b3951d1fd92.jpg"></article>]]></description>
+            <link>www.bomart.nl</link>
+            <guid isPermaLink="false">4752fe6b-4783-4ae6-b54c-5e8acacf02be</guid>
+            <pubDate>Tue, 17 May 2016 20:31:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
