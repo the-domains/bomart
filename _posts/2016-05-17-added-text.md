@@ -6,8 +6,8 @@ isBasedOnUrl: www.bomart.nl
 inLanguage: null
 keywords: []
 description: Bomart advies
-datePublished: '2016-06-26T22:30:02.404Z'
-dateModified: '2016-06-26T22:28:21.351Z'
+datePublished: '2016-06-26T22:33:02.966Z'
+dateModified: '2016-06-26T22:31:04.083Z'
 title: ''
 author:
   - name: Jeroen van Lieshout
