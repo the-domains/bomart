@@ -4,7 +4,7 @@
         <description><![CDATA[Bomart Advies]]></description>
         <link>https://thegrid.ai/bomart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 15:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 15:12:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bomart/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Homepage met nav]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Tue, 30 Aug 2016 15:10:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Grid]]></title>
+            <description><![CDATA[<article><h1>The Grid</h1><p>test discription</p></article>]]></description>
+            <link>https://app.thegrid.io/sites/bc1a1e42-bfde-4939-8de6-e16bae1da918</link>
+            <guid isPermaLink="false">dbc64403-9a00-4d26-94c3-5786be8bc3de</guid>
+            <pubDate>Tue, 30 Aug 2016 15:12:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/85d8351d-2b5f-4408-a2fe-edc55714e960.png" alt="navtab">]]></description>
             <link>https://thegrid.ai/bomart/navtab/index.html</link>
             <guid isPermaLink="false">a41b9b44-bfd5-4514-925d-f64997285095</guid>
             <pubDate>Tue, 30 Aug 2016 15:09:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid]]></title>
-            <description><![CDATA[<article><h1>The Grid</h1></article>]]></description>
-            <link>https://app.thegrid.io/sites/bc1a1e42-bfde-4939-8de6-e16bae1da918</link>
-            <guid isPermaLink="false">dbc64403-9a00-4d26-94c3-5786be8bc3de</guid>
-            <pubDate>Tue, 24 May 2016 21:33:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
