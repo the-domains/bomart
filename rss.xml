@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Bomart]]></title>
-        <description><![CDATA[Bomart]]></description>
+        <title><![CDATA[Bomart Advies]]></title>
+        <description><![CDATA[Bomart Advies]]></description>
         <link>https://thegrid.ai/bomart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 22:41:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 15:10:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bomart/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Homepage met nav]]></title>
-            <description><![CDATA[<p>Bomart advies</p>]]></description>
+            <description><![CDATA[<p>Bomart advies.</p>]]></description>
             <link>www.bomart.nl</link>
             <guid isPermaLink="false">4752fe6b-4783-4ae6-b54c-5e8acacf02be</guid>
-            <pubDate>Sun, 26 Jun 2016 22:40:59 GMT</pubDate>
+            <pubDate>Tue, 30 Aug 2016 15:10:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/85d8351d-2b5f-4408-a2fe-edc55714e960.png" alt="navtab">]]></description>
+            <link>https://thegrid.ai/bomart/navtab/index.html</link>
+            <guid isPermaLink="false">a41b9b44-bfd5-4514-925d-f64997285095</guid>
+            <pubDate>Tue, 30 Aug 2016 15:09:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Grid]]></title>
